@@ -10,7 +10,7 @@
     "demo": "tsx src/index.ts"
   },
   "devDependencies": {
-    "@types/node": "^22.5.0",
+    "@types/node": "^26.6.6",
     "tsx": "^4.19.0",
     "typescript": "^5.6.0",
     "vitest": "^2.1.0"
